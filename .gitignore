@@ -1,0 +1,7 @@
+.build/
+__pycache__/
+*.pyc
+.DS_Store
+# personal state never belongs here: it lives under ~/.local/share/ytm (cookies, play log, taste, account pulls)
+*.cookies
+auth.json

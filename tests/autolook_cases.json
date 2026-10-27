@@ -1,0 +1,461 @@
+[
+ {
+  "vid": "78zhj7OITlQ",
+  "signals": {
+   "title": "Deep Work Music ~ Ambient Productivity Workspace",
+   "artist": "Focus Room Official",
+   "album": "Deep Work Music ~ Ambient Productivity Workspace",
+   "mode": "work",
+   "hour": 17,
+   "lum": 0.06,
+   "sat": 0.392,
+   "colourful": 0.521,
+   "warm": 0.31,
+   "cool": 0.677,
+   "dark": 0.86,
+   "neonpx": 0.0
+  },
+  "expect": {
+   "look": "paper",
+   "accent": "cover",
+   "motion": "calm",
+   "reason": "paper · work mode"
+  },
+  "conf": 1.0
+ },
+ {
+  "vid": "8JiPi_TUZug",
+  "signals": {
+   "title": "Background Music for Focus and Concentration, Study Music, Focus Music",
+   "artist": "Greenred Productions",
+   "album": "Background Music for Focus and Concentration, Study Music, Focus Music",
+   "mode": "work",
+   "hour": 17,
+   "lum": 0.33,
+   "sat": 0.657,
+   "colourful": 1.0,
+   "warm": 0.995,
+   "cool": 0.0,
+   "dark": 0.048,
+   "neonpx": 0.0
+  },
+  "expect": {
+   "look": "paper",
+   "accent": "cover",
+   "motion": "calm",
+   "reason": "paper · work mode"
+  },
+  "conf": 1.0
+ },
+ {
+  "vid": "9P5gQXslrR0",
+  "signals": {
+   "title": "Strobe",
+   "artist": "deadmau5",
+   "album": "For Lack Of A Better Name",
+   "mode": "normal",
+   "hour": 21,
+   "bpm": 128.6,
+   "tilt": 0.303,
+   "density": 0.337,
+   "onset": 0.12,
+   "quiet": 0.213,
+   "drops": 2,
+   "lum": 0.131,
+   "sat": 0.573,
+   "colourful": 0.827,
+   "warm": 0.001,
+   "cool": 0.985,
+   "dark": 0.741,
+   "neonpx": 0.014
+  },
+  "expect": {
+   "look": "neon",
+   "accent": "cover",
+   "motion": "calm",
+   "reason": "neon drive · 129 bpm, 2 drops, late · a close call with stargaze"
+  },
+  "conf": 0.0
+ },
+ {
+  "vid": "BwmzXTjDt7A",
+  "signals": {
+   "title": "A Moment Apart",
+   "artist": "ODESZA",
+   "album": "A Moment Apart",
+   "mode": "normal",
+   "hour": 16,
+   "lum": 0.203,
+   "sat": 0.518,
+   "colourful": 0.659,
+   "warm": 0.016,
+   "cool": 0.975,
+   "dark": 0.347,
+   "neonpx": 0.021
+  },
+  "expect": {
+   "look": "dusk",
+   "accent": "cover",
+   "motion": "calm",
+   "reason": "dusk · nothing stood out"
+  },
+  "conf": 0.17
+ },
+ {
+  "vid": "KMuVsv3KFaI",
+  "signals": {
+   "title": "Quezacotl",
+   "artist": "deadmau5",
+   "album": "Quezacotl",
+   "mode": "normal",
+   "hour": 20,
+   "bpm": 128.6,
+   "tilt": 0.412,
+   "density": 0.561,
+   "onset": 0.172,
+   "quiet": 0.093,
+   "drops": 1
+  },
+  "expect": {
+   "look": "neon",
+   "accent": "cover",
+   "motion": "lively",
+   "reason": "neon drive · 129 bpm, heavy bass, a wall of sound"
+  },
+  "conf": 0.88
+ },
+ {
+  "vid": "QZOF2ooVHbo",
+  "signals": {
+   "title": "Thin Floors And Tall Ceilings",
+   "artist": "ODESZA",
+   "album": "A Moment Apart",
+   "mode": "normal",
+   "hour": 17,
+   "bpm": 102.9,
+   "tilt": 0.317,
+   "density": 0.463,
+   "onset": 0.259,
+   "quiet": 0.281
+  },
+  "expect": {
+   "look": "dusk",
+   "accent": "cover",
+   "motion": "calm",
+   "reason": "dusk · evening"
+  },
+  "conf": 0.26
+ },
+ {
+  "vid": "WYknXjml9Gw",
+  "signals": {
+   "title": "Study Music, Concentration Music for Studying, Focus Music for Productivity",
+   "artist": "Greenred Productions",
+   "album": "Study Music, Concentration Music for Studying, Focus Music for Productivity",
+   "mode": "work",
+   "hour": 17,
+   "lum": 0.744,
+   "sat": 0.16,
+   "colourful": 0.076,
+   "warm": 0.346,
+   "cool": 0.0,
+   "dark": 0.0,
+   "neonpx": 0.0
+  },
+  "expect": {
+   "look": "paper",
+   "accent": "mono",
+   "motion": "calm",
+   "reason": "paper · work mode"
+  },
+  "conf": 1.0
+ },
+ {
+  "vid": "XD3Tdn0OAxc",
+  "signals": {
+   "title": "json.exe.null",
+   "artist": "Tomas Corza",
+   "album": "json.exe.null",
+   "mode": "normal",
+   "hour": 18,
+   "bpm": 94.7,
+   "tilt": 0.393,
+   "density": 0.601,
+   "onset": 0.261,
+   "quiet": 0.033,
+   "drops": 2,
+   "lum": 0.083,
+   "sat": 0.874,
+   "colourful": 0.986,
+   "warm": 0.008,
+   "cool": 0.843,
+   "dark": 0.844,
+   "neonpx": 0.08
+  },
+  "expect": {
+   "look": "neon",
+   "accent": "cover",
+   "motion": "calm",
+   "reason": "neon drive · heavy bass, a wall of sound, 2 drops"
+  },
+  "conf": 0.88
+ },
+ {
+  "vid": "kO1gvHp52l0",
+  "signals": {
+   "title": "Hours Relaxing Guitar Music, Meditation Music, Instrumental Music, Calming Music, Soft Music",
+   "artist": "Nature Sounds",
+   "album": "Hours Relaxing Guitar Music, Meditation Music, Instrumental Music, Calming Music, Soft Music",
+   "mode": "work",
+   "hour": 17,
+   "lum": 0.407,
+   "sat": 0.282,
+   "colourful": 0.518,
+   "warm": 0.987,
+   "cool": 0.004,
+   "dark": 0.085,
+   "neonpx": 0.0
+  },
+  "expect": {
+   "look": "paper",
+   "accent": "cover",
+   "motion": "calm",
+   "reason": "paper · work mode"
+  },
+  "conf": 1.0
+ },
+ {
+  "vid": "l327mTUg93c",
+  "signals": {
+   "title": "Minecraft Dungeons II: Reveal Trailer (Original Trailer Score)",
+   "artist": "Minecraft, Squeak E. Clean",
+   "album": "Minecraft Dungeons II: Reveal Trailer (Original Trailer Score)",
+   "mode": "normal",
+   "hour": 18,
+   "bpm": 76.6,
+   "tilt": 0.23,
+   "density": 0.445,
+   "onset": 0.301,
+   "quiet": 0.349,
+   "lum": 0.392,
+   "sat": 0.652,
+   "colourful": 0.819,
+   "warm": 0.085,
+   "cool": 0.908,
+   "dark": 0.194,
+   "neonpx": 0.1
+  },
+  "expect": {
+   "look": "dusk",
+   "accent": "cover",
+   "motion": "calm",
+   "reason": "dusk · 'trailer score', bright, open top end, evening"
+  },
+  "conf": 1.0
+ },
+ {
+  "vid": "maWHojZTnTg",
+  "signals": {
+   "title": "Aria Math",
+   "artist": "C418",
+   "album": "Minecraft - Volume Beta",
+   "mode": "normal",
+   "hour": 18,
+   "bpm": 83.7,
+   "tilt": 0.251,
+   "density": 0.425,
+   "onset": 0.122,
+   "quiet": 0.325,
+   "lum": 0.023,
+   "sat": 0.554,
+   "colourful": 0.669,
+   "warm": 0.855,
+   "cool": 0.127,
+   "dark": 0.975,
+   "neonpx": 0.0
+  },
+  "expect": {
+   "look": "stars",
+   "accent": "cover",
+   "motion": "calm",
+   "reason": "stargaze · 84 bpm, sparse, long notes, lots of quiet"
+  },
+  "conf": 0.25
+ },
+ {
+  "vid": "od6AI4m0nN8",
+  "signals": {
+   "title": "Run (feat. Jessica Main)",
+   "artist": "Arman Cekin",
+   "album": "Run",
+   "mode": "normal",
+   "hour": 16,
+   "lum": 0.276,
+   "sat": 0.148,
+   "colourful": 0.133,
+   "warm": 1.0,
+   "cool": 0.0,
+   "dark": 0.005,
+   "neonpx": 0.0
+  },
+  "expect": {
+   "look": "dusk",
+   "accent": "ember",
+   "motion": "calm",
+   "reason": "dusk · a warm cover"
+  },
+  "conf": 0.5
+ },
+ {
+  "vid": "K8v_DaCcORQ",
+  "signals": {
+   "title": "Midnight City",
+   "artist": "M83"
+  },
+  "expect": {
+   "look": "neon",
+   "accent": "cover",
+   "motion": "calm",
+   "reason": "neon drive · 'midnight' 'city'"
+  },
+  "conf": 0.33
+ },
+ {
+  "vid": "x_VETA9GTqA",
+  "signals": {
+   "title": "Cyberverse (Sped Up)",
+   "artist": "Navjaxx",
+   "album": "Cyberverse"
+  },
+  "expect": {
+   "look": "neon",
+   "accent": "cover",
+   "motion": "calm",
+   "reason": "neon drive · 'cyberverse'"
+  },
+  "conf": 0.75
+ },
+ {
+  "vid": "NdMCRVtLCLQ",
+  "signals": {
+   "title": "Midnight Window — 90 BPM Lo-Fi Chill",
+   "artist": "Zyra Music"
+  },
+  "expect": {
+   "look": "rain",
+   "accent": "cover",
+   "motion": "calm",
+   "reason": "rain window · 'lo-fi'"
+  },
+  "conf": 0.75
+ },
+ {
+  "vid": "Mi5_xK4_2d0",
+  "signals": {
+   "title": "Star Gazing",
+   "artist": "Aesthetic Moon"
+  },
+  "expect": {
+   "look": "stars",
+   "accent": "cover",
+   "motion": "calm",
+   "reason": "stargaze · 'star gazing'"
+  },
+  "conf": 0.75
+ },
+ {
+  "vid": "Rbgw_rduQpM",
+  "signals": {
+   "title": "I Really Want to Stay at Your House",
+   "artist": "Rosa Walton, Hallie Coggins",
+   "album": "Cyberpunk 2077: Radio, Vol. 2 (Original Soundtrack)"
+  },
+  "expect": {
+   "look": "neon",
+   "accent": "cover",
+   "motion": "calm",
+   "reason": "neon drive · 'cyberpunk'"
+  },
+  "conf": 0.5
+ },
+ {
+  "vid": "qLYDnlrdkrQ",
+  "signals": {
+   "title": "sleepless at midnight",
+   "artist": "harrylofi"
+  },
+  "expect": {
+   "look": "rain",
+   "accent": "cover",
+   "motion": "calm",
+   "reason": "rain window · 'lofi'"
+  },
+  "conf": 0.75
+ },
+ {
+  "vid": "A2jr18ZbkFc",
+  "signals": {
+   "title": "青のすみか (Acoustic ver.) - Where Our Blue Is (Acoustic version)",
+   "artist": "Tatsuya Kitani"
+  },
+  "expect": {
+   "look": "dusk",
+   "accent": "cover",
+   "motion": "calm",
+   "reason": "dusk · 'acoustic'"
+  },
+  "conf": 1.0
+ },
+ {
+  "vid": "dByjBH1dt3o",
+  "signals": {
+   "title": "Hats Off",
+   "artist": "moon.walken"
+  },
+  "expect": {
+   "look": "dusk",
+   "accent": "cover",
+   "motion": "calm",
+   "reason": "dusk · nothing stood out"
+  },
+  "conf": 0.17
+ },
+ {
+  "vid": "1WDDu36U4dM",
+  "signals": {
+   "title": "Deep Focus LoFi",
+   "artist": "LO-FI BEATS, Study Music & Sounds, Focus Beat"
+  },
+  "expect": {
+   "look": "rain",
+   "accent": "cover",
+   "motion": "calm",
+   "reason": "rain window · 'lofi'"
+  },
+  "conf": 0.75
+ },
+ {
+  "vid": "78zhj7OITlQ*",
+  "signals": {
+   "title": "Deep Work Music ~ Ambient Productivity Workspace",
+   "artist": "Focus Room Official",
+   "album": "Deep Work Music ~ Ambient Productivity Workspace",
+   "mode": "normal",
+   "hour": 17,
+   "lum": 0.06,
+   "sat": 0.392,
+   "colourful": 0.521,
+   "warm": 0.31,
+   "cool": 0.677,
+   "dark": 0.86,
+   "neonpx": 0.0
+  },
+  "expect": {
+   "look": "stars",
+   "accent": "cover",
+   "motion": "calm",
+   "reason": "stargaze · 'ambient', a night-sky cover"
+  },
+  "conf": 0.67
+ }
+]

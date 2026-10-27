@@ -1,0 +1,8 @@
+# the player's python side. install.sh puts these in ~/.local/share/ytm/venv
+ytmusicapi>=1.12
+yt-dlp
+numpy
+pillow
+textual>=8
+textual-image
+rich
